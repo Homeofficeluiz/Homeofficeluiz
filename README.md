@@ -1,19 +1,21 @@
 # 👋 Olá, eu sou Luiz Fernando!  
 
 Seja muito bem-vindo ao meu perfil! 🚀  
-Sou apaixonado por **tecnologia** e estou sempre aprendendo algo novo. Atualmente, estou focado em **análise de dados**, explorando como transformar informações brutas em insights valiosos, conhecimento nunca é de mais.  
+Meu nome é Luiz e gosto de **tecnologia** e estou sempre aprendendo algo novo. Atualmente, estou focado em **análise de dados**, explorando como transformar informações brutas e aprendendo insights, conhecimento nunca é de mais. Como poderá ver eu eu sempre estou de olho em outras tecnologias, então fique por ai.   
 
-Aqui no meu GitHub, você vai encontrar projetos que refletem meus estudos e minha evolução como desenvolvedor ou analista ainda não sei. Estou sempre testando novas ideias, criando APIs, manipulando bancos de dados e desenvolvendo aplicações web. Se quiser trocar uma ideia sobre tecnologia, fique à vontade! 😃  
+Aqui no meu GitHub, você vai encontrar projetos que refletem meus estudos e minha evolução como desenvolvedor ou analista ainda não sei. Estou sempre testando novas ideias seja, criando APIs, manipulando bancos de dados e desenvolvendo aplicações web. Se quiser trocar uma ideia sobre tecnologia, fique à vontade! 😃  
 
 ---
 
 ## 📚 O que estou estudando atualmente?  
-📌 **Análise de Dados** – Como extrair, tratar e visualizar informações de grandes conjuntos de dados  
-📌 **Python para Ciência de Dados** – Usando **pandas**, **NumPy** e outras bibliotecas para manipulação de dados  
-📌 **Jupyter Notebook** – Criando e documentando análises interativas  
-📌 **Django e APIs** – Construção de aplicações web e integração com serviços externos  
-📌 **SQL** – Trabalhando com bancos de dados para armazenar e consultar informações  
-📌 **Excel** – Organização manipulção de arquivos .csv e análise de dados 
+📌 **Análise de Dados**
+📌 **Python para Ciência de Dados** - **pandas** - **NumPy**
+📌 **Jupyter Notebook**  
+📌 **Django e APIs**
+📌 **SQL**
+📌 **Excel**
+📌 **Power BI**
+
 
 ---
 
@@ -28,6 +30,7 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meus estudos e min
 ✔️ Pandas  
 ✔️ Jupyter Notebook  
 ✔️ Excel  
+✔️ PowerBI
 
 ---
 
@@ -42,4 +45,4 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meus estudos e min
 📌 [**LinkedIn**](https://www.linkedin.com/in/luiz-fernando-vieira-cruz-50133b48/)  
 📌 **Email:** homeofficeluiz@gmail.com  
 
-Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado e que aprendizado. Se tiver alguma dúvida ou quiser trocar ideias, é só chamar! 🚀  
+Sinta-se à vontade para explorar meus projetos que estiverem publicos e acompanhar, pois tudo é aprendizado. Se tiver alguma dúvida ou quiser trocar ideias, é só chamar! 🚀  
